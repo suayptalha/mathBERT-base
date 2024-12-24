@@ -1,2 +1,2 @@
 # mathBERT-base
-A BERT model trained for math!
+A BERT model trained for medicine!
